@@ -7,6 +7,12 @@
     "express": "3.12.0"
   },
   "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-browserify": "^4.3.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-junit-reporter": "0.2.2",
     "mocha": "1.20.1",
     "supertest": "0.13.0"
   }
